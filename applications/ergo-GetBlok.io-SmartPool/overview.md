@@ -1,6 +1,6 @@
 ---
 name: 'GetBlok.io Ergo SmartPool' 
-description: GetBlok.io SmartPool is the very first decentralized mining pool on Ergo! This ability will ultimately eliminate centralized mining pools with smart contracts and could ultimately help reduce the risk of 51% attacks and other downfalls that centralization brings.
+description: GetBlok.io SmartPool is the very first smart-contract based mining pool on Ergo! GetBlok.io allows for complete transparency in shares and payouts. Miners can also mine on various SubPools to gain additional tokens and rewards. 
 website: 'https://ergo.getblok.io'
 logo_image: 'GetBlok_io_Logo.png'
 preview_image: 'GetBlok_io_Preview.png'
